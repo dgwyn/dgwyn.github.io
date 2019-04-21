@@ -1,8 +1,8 @@
-Hi! my name is David, and i am going to tell you what i have learned from my dad every day.
+Hi! My name is David, and I am going to tell you what I have learned from my dad every day.
 
 ## Sunday, April 21
 
-today I was working on my science project. When I was typeing, I had trouble
+Today I was working on my science project. When I was typeing, I had trouble
 because one of my paragraphs didn't really fit well with my main question. But
 then my dad told me about impliclt and expliclt so I understanded.
 
@@ -14,7 +14,7 @@ are also called PRs. PRs are used so that someone else can review and approve.
 
 ## Saturday, April 20
 
-Things i did and learned:
+Things I did and learned:
 
 - got a github page
 - used vim, text editor
