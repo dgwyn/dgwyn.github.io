@@ -3,12 +3,12 @@ Hi! My name is David, and I am going to tell you what I have learned from my dad
 
 Today when I was playing a game called 2 Touch, and was playing with the 1st
 graders, I saw a boy named Ashley that was cheating. He relied on people to
-kick the ball to help him. ususally, I would tell him to stop, but I didn't
+kick the ball to help him. Usually, I would tell him to stop, but I didn't
 because when my friends argue, they make trouble. Lots of trouble.
 
-During the game a 5th grader joined. I was  a bit scared because 5th grader are
-stronger and he was a soccer player. After a long time, I beat him, but when
-beat him i was very sweaty. But I was very happy.
+During the game a 5th grader joined. I was  a bit scared because 5th graders are
+stronger and he was a soccer player. After a long time, I beat him, but when I
+beat him I was very sweaty. But I was very happy.
 
 ## Sunday, April 21
 
