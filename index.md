@@ -1,16 +1,21 @@
-Hi! My name is David, and I am going to tell you what I have learned from my dad every day.
+Hi! My name is David, and I am going to tell you what I have learned from my
+dad every day.
+
 ## Tueday, April 30
 
 Sorry about me not making any PRs for the last 8 days. To make up for what I
 did, I will write about what I did in the past 8 days. One of the things that I
-did was work on my science project. Originaly, for my main question, it was:
+did was work on my science project. Originally, for my main question, it was:
 how is electricity made from other energy? but then my mom told me that I could
 not test with that question and I agreed. So I changed my question to: what
 windturbine blades make the most energy? Me and my mom made a windturbine and
 it worked great! Today I still have to do two more blade sets and test, but
-besides that I've doing good. today also at after school, I made a new
-character named X1Z2 for a game. One of my friends, Max also changed his
-character in that game. We then made apicture of ours characters.
+besides that I've doing good.
+
+Today also at after school, I made a new character named X1Z2 for a game. One
+of my friends, Max also changed his character in that game. We then made a
+picture of our characters.
+
 ## Monday, April 22
 
 Today when I was playing a game called 2 Touch, and was playing with the 1st
