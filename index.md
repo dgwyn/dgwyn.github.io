@@ -10,10 +10,10 @@ how is electricity made from other energy? but then my mom told me that I could
 not test with that question and I agreed. So I changed my question to: what
 windturbine blades make the most energy? Me and my mom made a windturbine and
 it worked great! Today I still have to do two more blade sets and test, but
-besides that I've doing good.
+besides that I've been doing good.
 
 Today also at after school, I made a new character named X1Z2 for a game. One
-of my friends, Max also changed his character in that game. We then made a
+of my friends, Max, also changed his character in that game. We then made a
 picture of our characters.
 
 ## Monday, April 22
