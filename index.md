@@ -3,19 +3,20 @@ dad every day.
 
 ## Saturday, May 11
 
-Today my dad told me  to down load a app called Jira. At first I was thinking,
+Today my dad told me to down load a app called Jira. At first I was thinking,
 why would he tell me to down load a app? Then he told me that this is how I can
-get tickets to do things like projects. First he make tickets to do simple
-things, like get him a coffee. Then he assigned to more harder like to make a
+get tickets to do things like projects. First he made tickets to do simple
+things, like get him a coffee. Then he assigned to more harder things like to make a
 PR about Jira. This is the PR I am doing now!
 
 ## Friday, May 10
 
-like on tusday, the science project is making me very busy, so I couldn't make
-time for PRs. Here are the things I did while I was not makeing PRs. I made
+like on Tuesday, the science project is making me very busy, so I couldn't make
+time for PRs. Here are the things I did while I was not making PRs. I made
 the rest of my blades, and I did all my testing. So right now, I feel pretty
 good.
-## Tueday, April 30
+
+## Tuesday, April 30
 
 Sorry about me not making any PRs for the last 8 days. To make up for what I
 did, I will write about what I did in the past 8 days. One of the things that I
