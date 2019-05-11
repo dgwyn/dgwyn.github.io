@@ -1,18 +1,18 @@
 Hi! My name is David, and I am going to tell you what I have learned from my
 dad every day.
 
-## saturday, may 11
+## Saturday, May 11
 
-today my dad told me  to down load a app called Jira. at first I was thinking,
-why would he tell me to down load a app? then he told me that this is how I can
+Today my dad told me  to down load a app called Jira. At first I was thinking,
+why would he tell me to down load a app? Then he told me that this is how I can
 get tickets to do things like projects. First he make tickets to do simple
-things, like get him a coffee. then he assigned to more harder like to make a
-PR about Jira. this is the PR I am doing now!
+things, like get him a coffee. Then he assigned to more harder like to make a
+PR about Jira. This is the PR I am doing now!
 
-## friday, May 10
+## Friday, May 10
 
 like on tusday, the science project is making me very busy, so I couldn't make
-time for PRs. Here are  the things I did while I was not makeing PRs. I made
+time for PRs. Here are the things I did while I was not makeing PRs. I made
 the rest of my blades, and I did all my testing. So right now, I feel pretty
 good.
 ## Tueday, April 30
