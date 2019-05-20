@@ -1,6 +1,15 @@
 Hi! My name is David, and I am going to tell you what I have learned from my
 dad every day.
 
+## Sunday, May 19
+
+Today, my dad and I were setting up my Okta account. But I installed Okta
+Mobile instead of Okta verifier to scan a QR code. It took awhile, but we were
+able to make it. I was glad!
+
+Also today, I did the rest of my tickets today. so now I can relax for a bit.
+my dad will not tell me about tickets to much.
+
 ## Saturday, May 11
 
 Today my dad told me to down load a app called Jira. At first I was thinking,
