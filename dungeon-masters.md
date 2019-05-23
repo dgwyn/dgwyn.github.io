@@ -18,8 +18,8 @@ than the needed numbers, you don't attack.
 
 There are 4 heros. The knight, healer, archer and thief. The stats are dowm below.
 
-  |knight|archer|healer|theif
-_____________|____________
+|knight|archer|healer|theif
+---|---|---|---|---
 HP|15|7|5|8
 DEF|5|4|3|4
 To hit target|6|3|4|3
