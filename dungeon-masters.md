@@ -16,11 +16,11 @@ than the needed numbers, you don't attack.
 
 ## Characters
 
-There are 4 heros. The knight, healer, archer and thief. The stats are dowm below.
+There are 4 heros. The knight, healer, archer and thief. The stats are:
 
-|knight|archer|healer|theif
+   |knight|archer|healer|theif
 ---|---|---|---|---
 HP|15|7|5|8
 DEF|5|4|3|4
 To hit target|6|3|4|3
-special|none|none|heal: heals one person by 2 HP. Takes one turn.|shadow step: makes theif harder to hit by 2 for 3 turns. Cool down is 2 turn.
+special|none|none|heal: heals one person by 2 HP. Takes one turn.|shadow step: makes theif harder to hit by 2 for 3 turns. Cool down is 2 turns.
