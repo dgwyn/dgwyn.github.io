@@ -1,6 +1,17 @@
 Hi! My name is David, and I am going to tell you what I have learned from my
 dad every day. I also made a game with my friends called [Dungeon Masters](dungeon-masters)
 
+Friday, June 7
+
+I was playing game called MilkChoco.  while I was playing, I met a
+friend that is named Maxwell.  we were a great team. In almost every match, we
+got first place.  Also, my dad down loaded MilkChoco and my dad and I played
+together.  
+In MilkChoco, I had a chracter named Recon. Maxwell recconmended a sniper
+rifle. I bought a Bordeal, which is the cheapest, but was good.  They where a
+good pair because Reco has the ability to see
+though walls, making it good for sniping.
+
 ## Sunday, May 19
 
 Today, my dad and I were setting up my Okta account. But I installed Okta
