@@ -1,6 +1,16 @@
 Hi! My name is David, and I am going to tell you what I have learned from my
 dad every day. I also made a game with my friends called [Dungeon Masters](dungeon-masters)
 
+## Monday, June 10
+
+We are going to Hawaii for the summer, so we packed up our clothes. me and my
+dad had the most space because we folded them in half, then rolled them up.
+
+After school I was playing MilkChoco. I was the medic, which can heal teamates.
+I met another medic, and we always heal each other, making us very strong.
+Then more people played as medic and joined us. Soon, we had 4 medics out of 5
+player. We were unstopable.
+
 ## Friday, June 7
 
 I was playing a game called MilkChoco.  While I was playing, I met a
