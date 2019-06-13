@@ -1,16 +1,25 @@
 Hi! My name is David, and I am going to tell you what I have learned from my
 dad every day. I also made a game with my friends called [Dungeon Masters](dungeon-masters)
 
-Friday, June 7
+## Monday, June 10
 
-I was playing game called MilkChoco.  while I was playing, I met a
+We are going to Hawaii for the summer, so we packed up our clothes. me and my
+dad had the most space because we folded them in half, then rolled them up.
+
+After school I was playing MilkChoco. I was the medic, which can heal teamates.
+I met another medic, and we always heal each other, making us very strong.
+Then more people played as medic and joined us. Soon, we had 4 medics out of 5
+player. We were unstopable.
+
+## Friday, June 7
+
+I was playing a game called MilkChoco.  While I was playing, I met a
 friend that is named Maxwell.  we were a great team. In almost every match, we
-got first place.  Also, my dad down loaded MilkChoco and my dad and I played
+got first place.  Also, my dad downloaded MilkChoco and my dad and I played
 together.  
-In MilkChoco, I had a chracter named Recon. Maxwell recconmended a sniper
-rifle. I bought a Bordeal, which is the cheapest, but was good.  They where a
-good pair because Reco has the ability to see
-though walls, making it good for sniping.
+In MilkChoco, I had a chracter named Recon.  Maxwell recconmended a sniper
+rifle.  I bought a Bordeal, which is the cheapest, but was good.  They were a
+good pair because Reco has the ability to see though walls.
 
 ## Sunday, May 19
 
