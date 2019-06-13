@@ -1,6 +1,6 @@
 Hi! My name is David, and I am going to tell you what I have learned from my
-dad every day. I also made a game with my friends called [Dungeon Masters](dungeon-masters)
-
+dad every day. I also made a game with my friends called [Dungeon Masters](dungeon-masters).
+This is my [GitHub tutorial page](git).
 ## Wedsday, June 12
 
 Max and I made a game that was about a nuclear bomb hitting earth, and animals
