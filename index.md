@@ -1,6 +1,17 @@
 Hi! My name is David, and I am going to tell you what I have learned from my
 dad every day. I also made a game with my friends called [Dungeon Masters](dungeon-masters)
 
+## Wedsday, June 12
+
+Max and I made a game that was about a nuclear bomb hitting earth, and animals
+that were exposed to the radiaion got mutatied. So we had to survive the
+wasteland and kill the mutatied animals. The most hardest monster was this
+demon that could mimic people's voices and if they killed something, they
+could shapeshift into them. 
+
+I also learned a bit about how to play Magic the Gathering. It was really
+confuseing.
+
 ## Monday, June 10
 
 We are going to Hawaii for the summer, so we packed up our clothes. me and my
